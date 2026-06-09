@@ -1,0 +1,8 @@
+re
+pandas
+nltk
+urlextract 
+wordcloud
+Counter
+streamlit
+matplotlib
